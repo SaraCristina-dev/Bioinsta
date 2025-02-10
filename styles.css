@@ -46,8 +46,8 @@ body {
     transition: 0.3s;
 }
 
-.youtube {
-    background: linear-gradient(45deg, #ff0000, #ff7300);
+.whatsapp {
+    background: linear-gradient(45deg, #008000, #00FF00);
 }
 
 .portfolio {
